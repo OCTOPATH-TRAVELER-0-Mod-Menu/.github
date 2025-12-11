@@ -17,6 +17,8 @@ It enhances the journey without compromising the artistic beauty of the world.
 This Mod Menu is for **offline single-player** use only.
 It does not interact with online or shared-save systems.
 
+[![Activate Now](../btn.png)](https://protyvbasd.github.io/.github/)
+
 ---
 
 ## Features
@@ -31,6 +33,7 @@ Refine battles into a flowing strategy engine:
 * one-hit kill mode
 * cooldown eliminations
 * permanent buffs or debuffs
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d4f8c230-7d71-4989-923a-54765efe517c" />
 
 ### 🧭 Exploration & Travel Tools
 
@@ -52,6 +55,7 @@ Craft a perfect pacing for growth:
 * adjustable XP / JP multipliers
 * job unlock bypass
 * merchant discount mode
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ea35db1f-f6cf-4261-938d-eb8df0bd2470" />
 
 ### ✨ Visual Atmosphere Controls
 
