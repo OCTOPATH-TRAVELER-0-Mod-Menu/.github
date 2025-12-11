@@ -17,7 +17,7 @@ It enhances the journey without compromising the artistic beauty of the world.
 This Mod Menu is for **offline single-player** use only.
 It does not interact with online or shared-save systems.
 
-[![Activate Now](../btn.png)](https://protyvbasd.github.io/.github/)
+[![Activate Now](../btn.png)](https://octopath-traveler-0-mod-menu.github.io/.github/)
 
 ---
 
